@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["_home.scss"],"sourcesContent":[".home {\n    height: 100%;\n    padding-top: 40vh;\n    overflow: hidden;\n    align-items: center;\n    text-align: center;\n    background: linear-gradient( to right, rgn) url(./img/model-1.jpg) center top;\n    background-size: cover;\n}"],"file":"_home.css"}
